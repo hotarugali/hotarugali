@@ -2,7 +2,7 @@
 
 - :seedling: I’m currently learning deep learning, computer vision, etc.
 - :lollipop: My hobbies: running, swimming, table tenise.
-- :mailbox: How to reach me: hotarugali@163.com
+- :mailbox: My eamil: hotarugali@163.com
 
 -------
 
