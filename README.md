@@ -1,16 +1,13 @@
-### Hi there 👋, I'm hotarugali.
+### Hi there 👋, I'm hotarugali :male_sign: .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: hotarugali@163.com
+- :seedling: I’m currently learning deep learning, computer vision, etc.
+- :lollipop: My hobbies: running, swimming, table tenise.
+- :mailbox: How to reach me: hotarugali@163.com
 
 -------
 
 #### Statistical data
-[![hotarugali's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotarugali&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![hotarugali's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotarugali&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Programming language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotarugali&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
