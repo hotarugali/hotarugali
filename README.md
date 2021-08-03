@@ -1,5 +1,5 @@
 <!-- [![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=hotarugali&animation=fadeIn&fontAlign=40&fontAlignY=35&desc=お前はどこまで見えている&descAlign=70&descSize=25)](https://github.com/kyechan99/capsule-render) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=hotarugali&animation=fadeIn&fontAlign=40&fontAlignY=35&desc=お前はどこまで見えている&descAlign=70&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=hotarugali&animation=fadeIn&fontAlign=40&fontAlignY=40&desc=お前はどこまで見えている&descAlign=70&descSize=25)
 
 ### Hi there 👋, I'm hotarugali :male_sign: .
 
